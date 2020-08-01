@@ -2,6 +2,8 @@
 
 <!--
 **rutujar/rutujar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutujar" alt="rutujar" /> </p>
+
 
 Here are some ideas to get you started:
 
