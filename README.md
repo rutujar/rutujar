@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Rutuja Rajesh</h1>
-<h3 align="center">Engineer at Accenture</h3>
+<h3 align="center">Software Engineer at Accenture</h3>
 
 - 🔭 I’m currently working at [Accenture](https://www.accenture.com/)
 
