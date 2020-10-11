@@ -12,5 +12,5 @@
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/rutujarajesh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rutujarajesh" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/1248133" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="1248133" height="30" width="40" /></a>
+<a href="https://github.com/rutujar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="1248133" height="30" width="40" /></a>
 </p>
