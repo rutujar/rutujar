@@ -14,3 +14,9 @@
 <a href="https://www.linkedin.com/in/rutujarajesh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rutujarajesh" height="30" width="40" /></a>
 <a href="https://github.com/rutujar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="1248133" height="30" width="40" /></a>
 </p>
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujar&layout=compact" alt="rutujarajesh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutujar&show_icons=true" alt="rutujarajesh" /></p>
